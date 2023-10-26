@@ -1,0 +1,15 @@
+/Users/sserebell/Desktop/C3/T21/bin/Debug/net7.0/T21
+/Users/sserebell/Desktop/C3/T21/bin/Debug/net7.0/T21.deps.json
+/Users/sserebell/Desktop/C3/T21/bin/Debug/net7.0/T21.runtimeconfig.json
+/Users/sserebell/Desktop/C3/T21/bin/Debug/net7.0/T21.dll
+/Users/sserebell/Desktop/C3/T21/bin/Debug/net7.0/T21.pdb
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/T21.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/T21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/T21.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/T21.AssemblyInfo.cs
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/T21.csproj.CoreCompileInputs.cache
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/T21.dll
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/refint/T21.dll
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/T21.pdb
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/T21.genruntimeconfig.cache
+/Users/sserebell/Desktop/C3/T21/obj/Debug/net7.0/ref/T21.dll

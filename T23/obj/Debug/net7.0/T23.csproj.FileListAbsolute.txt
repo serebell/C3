@@ -1,0 +1,15 @@
+/Users/sserebell/Desktop/C3/T23/bin/Debug/net7.0/T23
+/Users/sserebell/Desktop/C3/T23/bin/Debug/net7.0/T23.deps.json
+/Users/sserebell/Desktop/C3/T23/bin/Debug/net7.0/T23.runtimeconfig.json
+/Users/sserebell/Desktop/C3/T23/bin/Debug/net7.0/T23.dll
+/Users/sserebell/Desktop/C3/T23/bin/Debug/net7.0/T23.pdb
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/T23.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/T23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/T23.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/T23.AssemblyInfo.cs
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/T23.csproj.CoreCompileInputs.cache
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/T23.dll
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/refint/T23.dll
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/T23.pdb
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/T23.genruntimeconfig.cache
+/Users/sserebell/Desktop/C3/T23/obj/Debug/net7.0/ref/T23.dll
